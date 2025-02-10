@@ -1,0 +1,7 @@
+namespace RatioAPIs_Fetching.Areas.HelpPage.ModelDescriptions
+{
+    public class CollectionModelDescription : ModelDescription
+    {
+        public ModelDescription ElementDescription { get; set; }
+    }
+}
